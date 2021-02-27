@@ -1,0 +1,19 @@
+Package: discord-rpc
+Version: 1.1.5
+Architecture: amd64
+Maintainer: Team int <mswgen02@gmail.com>
+Installed-Size: 187759
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./discord-rpc_1.1.5_amd64.deb
+Size: 57036130
+MD5sum: 563e5a5ade180253e85837e5504b5350
+SHA1: 34b11d0cbbd863f2276f0a6ba3cffa8109a17211
+SHA256: 381593403846ac2a01102b7283070956e3dcf79b2e6e5e75292580858a7eaba1
+Section: default
+Priority: extra
+Homepage: https://github.com/Team-Union/discord-rpc#readme
+Description: Discord RPC app
+  An app for setting custom Discord Rich Presence
+License: MIT
+Vendor: Team int <mswgen02@gmail.com>
+
