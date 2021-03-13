@@ -17,3 +17,22 @@ Description: Discord RPC app
 License: MIT
 Vendor: Team int <mswgen02@gmail.com>
 
+Package: youtube-downloader
+Version: 1.0.1
+Architecture: amd64
+Maintainer: Team int <mswgen02@gmail.com>
+Installed-Size: 289755
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./youtube-downloader_1.0.1_amd64.deb
+Size: 80450668
+MD5sum: 95f40f8d7acd0fa3e25e82abc98ccd94
+SHA1: 9b3b2341460b02e23c9af19f2adc404b12ade938
+SHA256: c8d005fe5f5f38fe746be71e55550c76a5bb3e233af993cbe81b9a578dc220b6
+Section: default
+Priority: extra
+Homepage: https://github.com/team-int/youtube-downloader#readme
+Description: A simple YouTube Downloader
+  A simple YouTube Downloader
+License: MIT
+Vendor: Team int <mswgen02@gmail.com>
+
